@@ -22,7 +22,6 @@ yum update
 yum reboot
 
 
-
 #Installing Guest Additions from Terminal
 #Mount the device and execute command
 # mount /dev/cdrom  /mnt
