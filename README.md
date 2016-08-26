@@ -8,7 +8,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh file I sued to execute after the preliminary configurations.
 
 ## Installation
 
