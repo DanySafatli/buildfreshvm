@@ -14,9 +14,6 @@ Install latest version of Oracle VirtualBox
 ## Usage Instructions  
 
 Follow the instructions below after downloading and installing latest version of Oracle VIrtualBox.  
-
-##Requirements  
-
 Create a new VM  
 Configurations:  
 Settings  -> Network  
@@ -24,6 +21,10 @@ Add two network cards
 NatNetwork  
 Host only  
 network card  
+
+##Requirements  
+
+machine with at least 8 GB ram and at least 10 GB memory for one instance  
 
 ## License  
 
