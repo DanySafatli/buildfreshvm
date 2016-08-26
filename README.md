@@ -12,9 +12,10 @@ After creating countless VM's in Oracle VirtualBox manually, I decided it was ti
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.  
+Install latest version of Oracle VirtualBox
 
 #Requirements  
+
 Create a new VM  
 Configurations:  
 Settings  -> Network  
