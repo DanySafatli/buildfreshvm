@@ -12,7 +12,15 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Provide code examples and explanations of how to get the project.  
+
+#Requirements  
+Create a new VM  
+Configurations:  
+  Settings  -> Network  
+    Add two network cards  
+      NatNetwork  
+      Host only network card  
 
 ## API Reference
 
