@@ -16,14 +16,10 @@ Install latest version of Oracle VirtualBox
 Create a new VM  
 Configurations:  
 Settings  -> Network  
-Add two network cards 
-NatNetwork 
-Host only 
+Add two network cards  
+NatNetwork  
+Host only  
 network card  
-
-## Contributors  
-
-I was the only contributor.  
 
 ## License  
 
