@@ -13,7 +13,7 @@ Install latest version of Oracle VirtualBox
 
 ## Usage Instructions  
 
-Install latest version of Oracle VirtualBox  
+Follow the instructions below after downloading and installing latest version of Oracle VIrtualBox.  
 
 ##Requirements  
 
