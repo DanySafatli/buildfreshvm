@@ -8,7 +8,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh file I sued to execute after the preliminary configurations.
+After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh file I used to execute after the preliminary configurations.
 
 ## Installation
 
@@ -36,4 +36,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+This was done entirely on open source software. No licenses were necessary to create a fresh instance.
