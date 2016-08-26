@@ -11,7 +11,7 @@ After creating countless VM's in Oracle VirtualBox manually, I decided it was ti
 
 Install latest version of Oracle VirtualBox
 
-#Requirements 
+#Requirements  
 
 Create a new VM  
 Configurations:  
