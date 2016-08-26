@@ -1,6 +1,7 @@
 ## Synopsis
 
-This project is a reference for myself to quickly create a fresh Oracle VM with just the right packages to use for testing and learning purposes. This install includes the CentOS 7 Minimal contents including developer packages.
+This project is a reference for myself to quickly create a fresh Oracle VM with just the right packages to use for testing and learning purposes. (specifically for my LFCS courses. 
+This install includes the CentOS 7 Minimal contents including developer packages.
 
 ## Motivation
 
