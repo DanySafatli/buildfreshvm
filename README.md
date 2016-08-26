@@ -18,9 +18,10 @@ Provide code examples and explanations of how to get the project.
 Create a new VM  
 Configurations:  
 Settings  -> Network  
-    Add two network cards 
-    NatNetwork 
-    Host only network card  
+Add two network cards 
+NatNetwork 
+Host only 
+network card  
 
 ## API Reference
 
