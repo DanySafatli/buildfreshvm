@@ -24,7 +24,7 @@ network card
 
 ##Requirements  
 
-machine with at least 8 GB ram and at least 10 GB memory for one instance  
+Machine with at least 8 GB ram and at least 10 GB memory for one instance  
 
 ## License  
 
