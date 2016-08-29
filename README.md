@@ -5,7 +5,7 @@ This project utilizes the CentOS 7 Minimal distribution including developer pack
 
 ## Motivation  
 
-After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh file I used to execute after the preliminary configurations.  
+After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh files I used to execute after the preliminary configurations.  
 
 ## Installation  
 
