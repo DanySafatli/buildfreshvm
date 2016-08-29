@@ -21,6 +21,12 @@ Add two network cards
 NatNetwork  
 Host only  
 network card  
+Add CentOS 7 Minimal distributed model in storage  
+Install CentOS 7  
+Reboot  
+Login and bring up ebp0s8 interface  
+''''nmcli conn up enp0s8
+'''
 
 ##Requirements  
 
