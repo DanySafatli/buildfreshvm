@@ -1,8 +1,7 @@
 BuildFreshVM.sh
 #######################
 
-#Verify and Configure Network
-nmcli conn up enp0s8
+#Verify and Configure enp0s8 interface on boot
 sed -i s/ONBOOT=no/ONBOOT=yes/ /etc/sysconfig/network-scripts/ifcfg-enp0s8
 grep ONBOOT /etc/sysconfig/network-scripts/ifcfg-enp0s8
 
