@@ -29,7 +29,7 @@ Login and bring up ebp0s8 interface
 # nmcli conn up enp0s8
 ```  
 ssh into the machine using putty and copy the scripts to the home directory in root  
-Execute the script  
+Execute the scripts  
 
 ##Requirements  
 
