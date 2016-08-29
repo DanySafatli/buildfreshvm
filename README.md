@@ -26,7 +26,7 @@ Install CentOS 7
 Reboot  
 Login and bring up ebp0s8 interface  
 ''''nmcli conn up enp0s8
-'''
+''''
 
 ##Requirements  
 
