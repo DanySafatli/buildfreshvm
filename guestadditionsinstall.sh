@@ -6,4 +6,5 @@ cd /mnt
 ./VBoxLinuxAdditions.run
 cd
 umount /mnt
+eject /dev/sr0
 reboot
