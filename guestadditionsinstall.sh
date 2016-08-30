@@ -4,4 +4,6 @@
 mount /dev/cdrom  /mnt
 cd /mnt
 ./VBoxLinuxAdditions.run
+cd
+umount /mnt
 reboot

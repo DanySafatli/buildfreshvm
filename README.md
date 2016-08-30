@@ -5,7 +5,7 @@ This project utilizes the CentOS 7 Minimal distribution including developer pack
 
 ## Motivation  
 
-After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh file I used to execute after the preliminary configurations.  
+After creating countless VM's in Oracle VirtualBox manually, I decided it was time to save myself some cycles and work more efficiently. This is my process and the .sh files I used to execute after the preliminary configurations.  
 
 ## Installation  
 
@@ -21,6 +21,15 @@ Add two network cards
 NatNetwork  
 Host only  
 network card  
+Add CentOS 7 Minimal distributed model in storage  
+Install CentOS 7  
+Reboot  
+Login and bring up ebp0s8 interface  
+```
+# nmcli conn up enp0s8
+```  
+ssh into the machine using putty and copy the scripts to the home directory in root  
+Execute the scripts  
 
 ##Requirements  
 
